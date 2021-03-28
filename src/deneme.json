@@ -1,0 +1,26 @@
+[
+{
+    "id":1,
+    "question":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "answer": "YES!",
+    "sources":["wikipedia.com"]
+},
+{
+    "id":2,
+    "question":"Etiam luctus nisl ac elit ornare sodales? ",
+    "answer": "YES!",
+    "sources":["wikipedia.com"]
+},
+{
+    "id":3,
+    "question":"Nullam vel arcu nec arcu porta vulputate non eu mi?",
+    "answer": "NO!",
+    "sources":["wikipedia.com", "Medium.com"]
+},
+{
+    "id":4,
+    "question":"Nullam vel?",
+    "answer": "NO!",
+    "sources":["wikipedia.com", "Medium.com"]
+}
+]
